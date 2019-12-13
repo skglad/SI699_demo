@@ -3,14 +3,8 @@
 **VISAPAL Demo Documentation:**
 The interactive demo is meant to highlight the two main features and functionality of the tool. These main features are:
 
-* Folder Structure
-    Organize documents
-    Upload documents to one place
-    Dynamic checklist of documents 
-* Timeline Management
-    Reminders
-    Tasks (To Do lists)
-    Due Dates
+* Folder Structure (organize documents, upload documents to one place, dynamic checklist of documents) 
+* Timeline Management (reminders, tasks (To Do lists), due dates)
 
 Main functionality is built out for parts of each of these features, but is not entirely function. For example, documents available for interaction in the folder structure are the passport document view and the USCIS I-864 Form. These provide examples of the functionality that the other folders will have. 
 
